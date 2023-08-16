@@ -16,7 +16,7 @@
 -  Statistics 
 -  Administration & Organisation of events
 -  Teaching
--  Interpreting French/English/Russian
+-  Interpreting  French / English / Russian
 ***
 
 <br>
