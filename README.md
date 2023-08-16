@@ -10,7 +10,7 @@
 📊 You can find some of the projects I realized during this study  [`here`](https://github.com/ElenaBayk?tab=repositories)
 
 ***
-💼 I have the experience in:
+💼 I have the experience in :
 
 -  Media Plainfication, Media Ratings Analytics
 -  Statistics 
