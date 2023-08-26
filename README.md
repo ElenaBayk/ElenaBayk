@@ -1,4 +1,4 @@
-![Reussir-son-projet-de-migration-SAS-vers-R-ou-Python](https://github.com/ElenaBayk/ElenaBayk/assets/141257192/b661b65e-eb6c-4bd4-bafc-b40ce9994aa9)
+
 
 
 # **Hi, I'm Elena. Welcome to my profile!**
