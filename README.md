@@ -1,7 +1,7 @@
 
-
-
+#   <img width="400" alt="9397e0033114d01d5cbe5327ebc3c4d7f017e94f" src="https://github.com/ElenaBayk/ElenaBayk/assets/141257192/ed28d699-d7e0-44e1-a184-3abb69513bda"> 
 # **Hi, I'm Elena. Welcome to my profile!**
+
 
 
 🎓 I have bachelor's degree in `Applied Mathematics` 
