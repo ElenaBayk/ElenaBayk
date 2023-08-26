@@ -1,3 +1,7 @@
+![image](https://github.com/ElenaBayk/ElenaBayk/assets/141257192/8836496d-a3f7-4342-b3eb-9729aaf88a25)
+
+
+
 # **Hi, I'm Elena. Welcome to my profile!**
 
 
